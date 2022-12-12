@@ -1,5 +1,5 @@
 {
-    "type": "project",
+    "type": "symfony-bundle",
     "license": "proprietary",
     "minimum-stability": "dev",
     "prefer-stable": true,
@@ -25,12 +25,12 @@
     },
     "autoload": {
         "psr-4": {
-            "App\\": "src/"
+            "JGoebl\\TestBundle\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "App\\Tests\\": "tests/"
+            "JGoebl\\TestBundle\\Tests\\": "tests/"
         }
     },
     "replace": {
