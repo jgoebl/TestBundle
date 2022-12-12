@@ -2,7 +2,7 @@
 
 namespace JGoebl\TestBundle\Entity;
 
-class Baum {
+class Tree {
     private int $height;
     private string $name;
 
