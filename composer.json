@@ -1,6 +1,7 @@
 {
+    "name": "jangoebl/test-bundle",
     "type": "symfony-bundle",
-    "license": "proprietary",
+    "license": "MIT",
     "minimum-stability": "dev",
     "prefer-stable": true,
     "require": {
