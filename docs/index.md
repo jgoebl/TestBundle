@@ -1,5 +1,4 @@
 
-
 Diese Dateien sind zwingend notwendig:
 + __src/TestBundle.php:__ 
 Diese Klasse macht aus dem Projekt ein Bundle (ändere den Namen zu deinem Bundel Namen);

@@ -1,5 +1,5 @@
 <?php
 
 return [
-    Symfony\Bundle\FrameworkBundle\FrameworkBundle::class => ['all' => true],
+    JGoebl\TestBundle\TestBundle::class => ['all' => true],
 ];
