@@ -1,6 +1,6 @@
 The following files are mandatory, because they ensure a structure convention that automated tools can rely on:
 
-+ __src/AcmeBlogBundle.php:__ This is the class that transforms a plain directory into a Symfony bundle (change this to your bundle's name);
++ __src/TestBundle.php:__ This is the class that transforms a plain directory into a Symfony bundle (change this to your bundle's name);
 
 + __README.md:__ This file contains the basic description of the bundle and it usually shows some basic examples and links to its full documentation (it can use any of the markup formats supported by GitHub, such as README.rst);
 
