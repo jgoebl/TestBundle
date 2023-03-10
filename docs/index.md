@@ -1,4 +1,7 @@
 
+Namespace:
+Organisation/BundleName
+
 Diese Dateien sind zwingend notwendig:
 + __src/TestBundle.php:__ 
 Diese Klasse macht aus dem Projekt ein Bundle (ändere den Namen zu deinem Bundel Namen);
@@ -16,7 +19,8 @@ Die root Datei der Dokumentation
 In der composer.json muss der type auf symfony-bundle gestellt sein.
 
 ```"type": "symfony-bundle"```
-
+Der Bundle Name wird in der Composer Json gesetzt:
+```"name": "jangoebl/test-bundle"```
 In der config/servies.yaml 
 
 Hier können Parameter für den Benutzer übergeben werden, diese werden als Key Value Paar gespeichert.
